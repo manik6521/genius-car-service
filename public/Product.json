@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Kashmiri Biryani House",
+        "description": "When it's time to deploy your app to production, be sure to follow Create React App's instructions on deploying with React Router to be sure your server is configured correctly.",
+        "price": "$160",
+        "image": "https://i.ibb.co/YjGVcyN/image-3.jpg",
+        "ratting": "4"
+    },
+    {
+        "id": 2,
+        "name": "Cafe 16 Hotel & Restaurant",
+        "description": "When it's time to deploy your app to production, be sure to follow Create React App's instructions on deploying with React Router to be sure your server is configured correctly.",
+        "price": "$199",
+        "image": "https://i.ibb.co/bHmZLnt/image-4.jpg",
+        "ratting": "3.5"
+    },
+    {
+        "id": 3,
+        "name": "Cafe Restaurant",
+        "description": "When it's time to deploy your app to production, be sure to follow Create React App's instructions on deploying with React Router to be sure your server is configured correctly.",
+        "price": "$130",
+        "image": "https://i.ibb.co/YjGVcyN/image-3.jpg",
+        "ratting": "3.5"
+    },
+    {
+        "id": 4,
+        "name": "Hawaiian Chicken PizzaSmoked",
+        "description": "When it's time to deploy your app to production, be sure to follow Create React App's instructions on deploying with React Router to be sure your server is configured correctly.",
+        "price": "$130",
+        "image": "https://i.ibb.co/tm70hjy/image.jpg",
+        "ratting": "3.5"
+    }
+]

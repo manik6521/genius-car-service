@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blog {
+    background: aliceblue;
+    padding: 20px;
+    width: 400px;
+    border-radius: 34px;
+}
+
+
+button.order {
+    padding: 11px 36px;
+    margin-top: 14px;
+    background: #0b50cf;
+    color: #fff;
+    font-size: 19px;
+    border: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 15px;
+}
+
+
+
+.blog-container {
+    width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 27px;
+}
+
+.blog img {
+    width: 100%;
+}
