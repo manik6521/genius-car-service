@@ -12,11 +12,13 @@ const Services = () => {
     }, [])
 
     return (
-        <div className='blog-container'>
-            {/* <h2>service: {products.length}</h2> */}
-            {
-                products.map(product => <Product key={product.id} product={product}></Product>)
-            }
+        <div className='container'>
+            <h2 className='title'>My food.</h2>
+            <div className="blog-container">
+                {
+                    products.map(product => <Product key={product.id} product={product}></Product>)
+                }
+            </div>
         </div>
     );
 };

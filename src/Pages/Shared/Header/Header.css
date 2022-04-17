@@ -1,0 +1,21 @@
+.logo {
+    width: 161px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: black;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.menu a {
+    color: #fff;
+    padding: 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
